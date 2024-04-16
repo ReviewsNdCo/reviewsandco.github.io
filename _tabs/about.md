@@ -18,5 +18,5 @@ Here on my website I write reviews and case studies about software and services 
 - [Reddit community](https://www.reddit.com/r/Review_Case_studies/) feel free to submit your post :)
 - <a rel="me" href="https://mastodon.social/@reviewsndco">Mastodon</a>
 - [Ko-Fi](https://ko-fi.com/reviewndsco)
-- [YouTube]https://www.youtube.com/channel/UC7Tpy6SvwTSSA_hoJB-LsLA
+- [YouTube](https://www.youtube.com/channel/UC7Tpy6SvwTSSA_hoJB-LsLA)
 - [Odysee](https://bit.ly/reviewsndco-odysee)
