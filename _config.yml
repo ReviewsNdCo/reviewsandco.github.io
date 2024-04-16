@@ -19,11 +19,11 @@ title: Reviews & Co # the main title
 tagline: Let's discover web tools # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Join us on our website where we discover new web technologies, do case studies and help new bloggers start their website the right way.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://reviewsand.co"
 
 github:
   username: github_username # change to your github username
@@ -123,7 +123,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 17
 
 # The base URL of your site
 baseurl: ""
