@@ -1,5 +1,5 @@
 ---
-title: My Jamstack blog setup
+title: Our Jamstack blog setup
 description: This is my current almost free website setup with domain name, hosting and a publishing platform.
 author: admir
 date: 2024-04-01 12:00:00 +0100
@@ -8,7 +8,7 @@ tags: [recommends]
 pin: true
 toc: false
 image:
-  path: assets/img/logo.jpg
+  path: assets/img/recommends/rd1.png
   alt: My Jamstack blog setup
 ---
 
@@ -35,7 +35,7 @@ image:
 - [tubebuddy](https://www.tubebuddy.com/)
 
 ## Graphics & video editing
-- [Canva](https://www.canva.com/)
+- [Canva](https://www.canva.com/join/ngn-mxx-hgt)
 - [GIMP](https://www.gimp.org/)
 
 ## Ideas and outlining
